@@ -1,4 +1,4 @@
-(ns CLambdo.test.core
+(ns clambdo.test.core
   (:use [CLambdo.core])
   (:use [clojure.test]))
 

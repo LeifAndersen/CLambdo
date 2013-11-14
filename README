@@ -1,6 +1,6 @@
 # CLambdo
 
-FIXME: write description
+A lambda calculus interpreter written in clojure.
 
 ## Usage
 
@@ -8,6 +8,6 @@ FIXME: write
 
 ## License
 
-Copyright (C) 2013 FIXME
+Copyright (C) 2013 Leif Andersen
 
-Distributed under the Eclipse Public License, the same as Clojure.
+Distributed under the CRAPL: http://matt.might.net/articles/crapl/
